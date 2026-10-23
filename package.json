@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "@react-native-segmented-control/segmented-control": "^2.5.7"
+    "@react-native-segmented-control/segmented-control": "~2.5.7"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/Sudobility/mixr_app_rn.git"

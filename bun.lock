@@ -4,7 +4,7 @@
   "workspaces": {
     "": {
       "dependencies": {
-        "@react-native-segmented-control/segmented-control": "^2.5.7",
+        "@react-native-segmented-control/segmented-control": "~2.5.7",
       },
     },
   },
