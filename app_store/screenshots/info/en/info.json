@@ -1,0 +1,7 @@
+{
+  "locale": "en",
+  "appleAppStore": { "title": "Mixr", "subtitle": "TODO (<=30 chars)", "keywords": "TODO",
+    "promotionalText": "TODO (<=170 chars)", "description": "TODO", "whatsNew": "Initial release." },
+  "googlePlay": { "title": "Mixr", "shortDescription": "TODO (<=80 chars)", "fullDescription": "TODO", "tags": [] },
+  "microsoftStore": { "productName": "Mixr", "description": "TODO", "shortDescription": "TODO", "searchTerms": "TODO", "whatsNew": "Initial release." }
+}

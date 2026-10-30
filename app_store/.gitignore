@@ -1,0 +1,7 @@
+.env
+.keys/
+builds/
+screenshots/raw/
+screenshots/store/
+.metro.pid
+.metro.log

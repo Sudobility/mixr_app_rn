@@ -1,0 +1,16 @@
+{
+  "metadata": { "version": "1.0", "lastUpdated": "2026-10-29", "whatsNew": "Initial release." },
+  "capture": { "loopOrder": "languages_first" },
+  "build": { "metroPort": 8081, "ios": { "appName": "Mixr", "workspace": "Mixr.xcworkspace", "scheme": "Mixr" } },
+  "localize": { "slug": "mixr" },
+  "app": {
+    "name": "Mixr", "bundleId": "com.sudobility.mixr", "packageName": "com.sudobility.mixr",
+    "scheme": "mixr", "developer": "TODO", "website": "TODO",
+    "supportUrl": "TODO", "privacyPolicyUrl": "TODO", "contactEmail": "TODO"
+  },
+  "supportedLanguages": [ { "code": "en", "name": "English", "primary": true } ],
+  "appleAppStore": { "primaryCategory": "TODO", "pricing": { "priceTier": 0, "availableInAllTerritories": true },
+    "platforms": { "ios": { "minimumOsVersion": "15.1" } } },
+  "googlePlay": { "defaultLanguage": "en-US", "applicationCategory": "TODO",
+    "pricing": { "free": true, "inAppPurchases": false } }
+}
